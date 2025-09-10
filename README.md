@@ -108,9 +108,9 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascri
 📱 Compatibilidade
 Dispositivo	Navegador	Status
 Android	Chrome	✅ Testado
-iOS	Safari	✅ Testado
+iOS	Safari	Não Testado
 Windows	Edge	✅ Testado
-MacOS	Safari	✅ Testado
+MacOS	Safari	Não Testado
 🎯 Dicas de Jogo
 
     Movimente-se constantemente para evitar inimigos
